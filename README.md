@@ -1,12 +1,14 @@
 ## dakota
-![Languages](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/LANGUAGES.png)
-![HTML](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/HTML.png)
-![CSS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/CSS.png)
-![JS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/JS.png)
-![TS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/TS.png)
-![LUA](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/LUA.png)
-![VSC](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/VSC.png)
-![ZEN](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/ZEN.png)
-![HYPR](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/HYPR.png)
-![ARCH](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/ARCH.png)
-![TOOLS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/TOOLS.png)
+<p>
+  <img src="./LANGUAGES.png" width="100" />
+  <img src="./HTML.png" width="100" />
+  <img src="./CSS.png" width="100" />
+  <img src="./JS.png" width="100" />
+  <img src="./TS.png" width="100" />
+  <img src="./LUA.png" width="100" />
+  <img src="./VSC.png" width="100" />
+  <img src="./ZEN.png" width="100" />
+  <img src="./HYPR.png" width="100" />
+  <img src="./ARCH.png" width="100" />
+  <img src="./TOOLS.png" width="100" />
+</p>
