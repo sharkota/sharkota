@@ -1,3 +1,12 @@
 ## dakota
 ![Languages](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/LANGUAGES.png)
-![Languages](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/HTML.png) 
+![HTML](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/HTML.png)
+![CSS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/CSS.png)
+![JS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/JS.png)
+![TS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/TS.png)
+![LUA](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/LUA.png)
+![VSC](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/VSC.png)
+![ZEN](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/ZEN.png)
+![HYPR](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/HYPR.png)
+![ARCH](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/ARCH.png)
+![TOOLS](https://raw.githubusercontent.com/sharkota/sharkota/refs/heads/main/TOOLS.png)
