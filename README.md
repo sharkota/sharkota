@@ -1,14 +1,15 @@
 ## dakota
 <p>
-  <img src="./LANGUAGES.png" width="100" />
-  <img src="./HTML.png" width="100" />
-  <img src="./CSS.png" width="100" />
-  <img src="./JS.png" width="100" />
-  <img src="./TS.png" width="100" />
-  <img src="./LUA.png" width="100" />
-  <img src="./VSC.png" width="100" />
-  <img src="./ZEN.png" width="100" />
-  <img src="./HYPR.png" width="100" />
-  <img src="./ARCH.png" width="100" />
-  <img src="./TOOLS.png" width="100" />
+  <img src="./LANGUAGES.png" height="28" />
+  <img src="./HTML.png" height="28" />
+  <img src="./CSS.png" height="28" />
+  <img src="./JS.png" height="28" />
+  <img src="./TS.png" height="28" />
+  <img src="./LUA.png" height="28" />
+  <br>
+  <img src="./TOOLS.png" height="28" />
+  <img src="./VSC.png" height="28" />
+  <img src="./ZEN.png" height="28" />
+  <img src="./HYPR.png" height="28" />
+  <img src="./ARCH.png" height="28" />
 </p>
