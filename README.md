@@ -1,4 +1,5 @@
-## dakota
+## Daktoa - Full Stack Developer
+Learn more <a href="https://kota.is-a.dev/">here</a>
 <p>
   <img src="./LANGUAGES.png" height="28" />
   <img src="./HTML.png" height="28" />
